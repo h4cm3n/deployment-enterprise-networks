@@ -1,5 +1,5 @@
 # deployment-enterprise-networks
- Simulation of Both enterprise and Service provided network using Packet Tracer
+ Simulation of Both enterprise network using Packet Tracer
 The project consists of four building in two diffrent cities and four different ISP providing redundant connections.
 
 Screen Shot of the MAIN office (markham, toronto) with all the ISPs
